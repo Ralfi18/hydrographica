@@ -1,0 +1,24 @@
+2018-07-21T22:50:22+00:00 CRITICAL Uncaught Error: Class 'Customizer_Toggle_Control' not found in /home/steral1/shop.steral.eu/wp-content/themes/martins-shop/functions.php:301
+Stack trace:
+#0 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(286): business_customize_register(Object(WP_Customize_Manager))
+#1 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/steral1/shop.steral.eu/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/steral1/shop.steral.eu/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#5 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/steral1/shop.steral.eu/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/steral1/shop.steral.eu/wp-settings.php(471): do_action('wp_loaded')
+#8 /home/steral1/shop.steral.eu/wp-con
+
+2018-07-21T22:51:10+00:00 CRITICAL Uncaught Error: Class 'Customizer_Toggle_Control' not found in /home/steral1/shop.steral.eu/wp-content/themes/martins-shop/functions.php:301
+Stack trace:
+#0 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(286): business_customize_register(Object(WP_Customize_Manager))
+#1 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/steral1/shop.steral.eu/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/steral1/shop.steral.eu/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#5 /home/steral1/shop.steral.eu/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/steral1/shop.steral.eu/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/steral1/shop.steral.eu/wp-settings.php(471): do_action('wp_loaded')
+#8 /home/steral1/shop.steral.eu/wp-con
+
